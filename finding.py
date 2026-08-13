@@ -1,0 +1,6 @@
+name=("siddhant","kumar","sharma","virat","rhoit","sachin","dhoni","rahul","vaibhav","ruturaj","sanju")
+print("First five names are:",name[:5])
+print("\nlast five names are:",name[-5:])
+print("\nmiddle four  names are:",name[3:7])
+print("\nAlternate elements  names are:",name[::2])
+print("\nReverse tuple names are:",name[::-1])

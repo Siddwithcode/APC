@@ -1,0 +1,5 @@
+t=("mumbai","delhi","bangalore","kolkata","chennai")
+print(t)
+print("first city is:",t[0])
+print("last city is:",t[-1])
+print("third city is:",t[2])
